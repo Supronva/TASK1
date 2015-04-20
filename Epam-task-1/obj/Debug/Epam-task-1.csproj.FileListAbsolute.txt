@@ -1,0 +1,12 @@
+c:\users\oag\documents\visual studio 2012\Projects\Epam-task-1\Epam-task-1\bin\Debug\Epam-task-1.exe.config
+c:\users\oag\documents\visual studio 2012\Projects\Epam-task-1\Epam-task-1\bin\Debug\Epam-task-1.exe
+c:\users\oag\documents\visual studio 2012\Projects\Epam-task-1\Epam-task-1\bin\Debug\Epam-task-1.pdb
+c:\users\oag\documents\visual studio 2012\Projects\Epam-task-1\Epam-task-1\obj\Debug\Epam-task-1.csprojResolveAssemblyReference.cache
+c:\users\oag\documents\visual studio 2012\Projects\Epam-task-1\Epam-task-1\obj\Debug\Epam-task-1.exe
+c:\users\oag\documents\visual studio 2012\Projects\Epam-task-1\Epam-task-1\obj\Debug\Epam-task-1.pdb
+d:\Epam-task-1\Epam-task-1\bin\Debug\Epam-task-1.exe.config
+d:\Epam-task-1\Epam-task-1\obj\Debug\Epam-task-1.exe
+d:\Epam-task-1\Epam-task-1\obj\Debug\Epam-task-1.pdb
+d:\Epam-task-1\Epam-task-1\bin\Debug\Epam-task-1.exe
+d:\Epam-task-1\Epam-task-1\bin\Debug\Epam-task-1.pdb
+d:\Epam-task-1\Epam-task-1\obj\Debug\Epam-task-1.csprojResolveAssemblyReference.cache
